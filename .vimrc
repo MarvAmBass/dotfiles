@@ -19,3 +19,7 @@ set rtp+=~/.vim/bundle/supertab
 " multicursor -> https://github.com/terryma/vim-multiple-cursors
 " install using: git clone https://github.com/terryma/vim-multiple-cursors ~/.vim/bundle/vim-multiple-cursors
 set rtp+=~/.vim/bundle/vim-multiple-cursors
+
+" gitgutter -> https://github.com/airblade/vim-gitgutter
+" install using: git clone https://github.com/airblade/vim-gitgutter ~/.vim/bundle/vim-gitgutter
+set rtp+=~/.vim/bundle/vim-gitgutter
