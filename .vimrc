@@ -9,3 +9,9 @@ augroup ProjectDrawer
   autocmd VimEnter * :set number " show line numbers - disable with :set nonumber
 "  autocmd VimEnter * :Vexplore  " opens file explorer on left side
 augroup END
+
+" optionals / plugins
+
+" autocompletion using supertab
+" install using: git clone https://github.com/ervandew/supertab ~/.vim/bundle/supertab
+"set rtp+=~/.vim/bundle/supertab
