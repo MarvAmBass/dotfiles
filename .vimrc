@@ -38,3 +38,9 @@ map <C-o> :NERDTreeToggle<CR>
 autocmd VimEnter * :NERDTreeToggle 
 autocmd VimEnter * wincmd p
 
+
+" EditorConfig is a multi-editor tool for defining base file handling and code style preferences
+" in a project and aligning these between editors.
+"
+" install using: git clone https://github.com/editorconfig/editorconfig-vim ~/.vim/bundle/editorconfig-vim
+set rtp+=~/.vim/bundle/editorconfig-vim
