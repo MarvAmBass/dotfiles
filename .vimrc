@@ -15,3 +15,7 @@ augroup END
 " autocompletion using supertab
 " install using: git clone https://github.com/ervandew/supertab ~/.vim/bundle/supertab
 set rtp+=~/.vim/bundle/supertab
+
+" multicursor -> https://github.com/terryma/vim-multiple-cursors
+" install using: git clone https://github.com/terryma/vim-multiple-cursors ~/.vim/bundle/vim-multiple-cursors
+set rtp+=~/.vim/bundle/vim-multiple-cursors
