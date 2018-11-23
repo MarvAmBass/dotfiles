@@ -32,3 +32,10 @@ set rtp+=~/.vim/bundle/vim-gitgutter
 " lightline - more meaningful status bar
 " install using: git clone https://github.com/itchyny/lightline.vim ~/.vim/bundle/lightline.vim
 set rtp+=~/.vim/bundle/lightline.vim
+
+" nerdtree - filebrowser
+" install using: git clone https://github.com/scrooloose/nerdtree ~/.vim/bundle/nerdtree
+set rtp+=~/.vim/bundle/nerdtree
+map <C-o> :NERDTreeToggle<CR>
+
+
