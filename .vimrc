@@ -44,3 +44,10 @@ autocmd VimEnter * wincmd p
 "
 " install using: git clone https://github.com/editorconfig/editorconfig-vim ~/.vim/bundle/editorconfig-vim
 set rtp+=~/.vim/bundle/editorconfig-vim
+
+
+" surround - bracket / quote manager
+" install using: git clone https://github.com/tpope/vim-surround ~/.vim/bundle/vim-surround
+set rtp+=~/.vim/bundle/vim-surround
+
+
