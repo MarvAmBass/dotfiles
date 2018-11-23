@@ -65,4 +65,6 @@ map ; :Files<CR>
 set rtp+=~/.vim/bundle/emmet-vim
 
 
-
+" vim-eunuch - handy commandline tools as vim commands (Chmod, Mkdir etc.)
+" install using: git clone https://github.com/tpope/vim-eunuch ~/.vim/bundle/vim-eunuch
+set rtp+=~/.vim/bundle/vim-eunuch
