@@ -58,3 +58,11 @@ set rtp+=~/.vim/bundle/vim-surround
 set rtp+=~/.vim/bundle/fzf
 set rtp+=~/.vim/bundle/fzf.vim
 map ; :Files<CR>
+
+
+" emmet - www.emmet.io - essential toolkit for web-developers
+" install using: git clone https://github.com/mattn/emmet-vim ~/.vim/bundle/emmet-vim
+set rtp+=~/.vim/bundle/emmet-vim
+
+
+
