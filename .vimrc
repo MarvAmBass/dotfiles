@@ -23,3 +23,12 @@ set rtp+=~/.vim/bundle/vim-multiple-cursors
 " gitgutter -> https://github.com/airblade/vim-gitgutter
 " install using: git clone https://github.com/airblade/vim-gitgutter ~/.vim/bundle/vim-gitgutter
 set rtp+=~/.vim/bundle/vim-gitgutter
+
+
+" gitgutter -> https://github.com/airblade/vim-gitgutter
+" install using: git clone https://github.com/airblade/vim-gitgutter ~/.vim/bundle/vim-gitgutter
+set rtp+=~/.vim/bundle/vim-gitgutter
+
+" lightline - more meaningful status bar
+" install using: git clone https://github.com/itchyny/lightline.vim ~/.vim/bundle/lightline.vim
+set rtp+=~/.vim/bundle/lightline.vim
