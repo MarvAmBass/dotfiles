@@ -14,4 +14,4 @@ augroup END
 
 " autocompletion using supertab
 " install using: git clone https://github.com/ervandew/supertab ~/.vim/bundle/supertab
-"set rtp+=~/.vim/bundle/supertab
+set rtp+=~/.vim/bundle/supertab
