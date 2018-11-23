@@ -22,7 +22,7 @@ set rtp+=~/.vim/bundle/vim-multiple-cursors
 " gitgutter -> https://github.com/airblade/vim-gitgutter
 " install using: git clone https://github.com/airblade/vim-gitgutter ~/.vim/bundle/vim-gitgutter
 set rtp+=~/.vim/bundle/vim-gitgutter
-autocmd VimEnter * :GitGutterAll
+autocmd VimEnter * :GitGutterEnable
 
 
 " lightline - more meaningful status bar (make sure 'export TERM=xterm-256color' is set)
