@@ -6,7 +6,7 @@ my private dotfiles
 
 ### Windows
 
-This also works on windows. Best option, install git for Windows and start the git-bash.
+This also works on windows. Best option, install http://www.msys2.org/ or install git for Windows and start the bash.
 
 Then you can install the VIM Plugins etc.
 
