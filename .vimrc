@@ -38,7 +38,7 @@ map <C-o> :NERDTreeToggle<CR>
 autocmd VimEnter * :NERDTreeToggle 
 autocmd VimEnter * wincmd p
 
-
+" DOESN'T WORK ON WINDOWS
 " EditorConfig is a multi-editor tool for defining base file handling and code style preferences
 " in a project and aligning these between editors.
 "
