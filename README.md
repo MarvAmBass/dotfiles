@@ -2,7 +2,16 @@
 my private dotfiles
 
 
+
 ## Systems
+
+### Linux
+
+Install
+
+```
+cat .tmux.conf .vimrc | grep git\ clone | sed 's/.*git c/git c/g' | bash
+```
 
 ### Windows
 
