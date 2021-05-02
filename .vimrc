@@ -52,8 +52,8 @@ set rtp+=~/.vim/bundle/vim-surround
 
 
 " fzf - fuzzy file finder
+" install using: sudo apt-get install -q -y fzf
 " install using: git clone https://github.com/junegunn/fzf ~/.vim/bundle/fzf
-" and
 " install using: git clone https://github.com/junegunn/fzf.vim ~/.vim/bundle/fzf.vim
 set rtp+=~/.vim/bundle/fzf
 set rtp+=~/.vim/bundle/fzf.vim
