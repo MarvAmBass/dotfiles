@@ -10,7 +10,8 @@ my private dotfiles
 Install
 
 ```
-cat .tmux.conf .vimrc | grep git\ clone | sed 's/.*git c/git c/g' | bash
+cat .tmux.conf | grep git\ clone | sed 's/.*git c/git c/g' | bash
+cat .vimrc | grep '^" install using: '| sed 's/^" install using: //g' | bash
 ```
 
 ### Windows
